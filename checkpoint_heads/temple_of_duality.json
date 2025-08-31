@@ -22,7 +22,7 @@
       "uuid": "7bdeee58-6af8-468c-86bd-4d376dd54681",
       "username": "Callister_Corvus",
       "structures": ["dnl:temple_of_duality"],
-      "cosmetics": ["flame"],
+      "cosmetics": ["scuttle_crown", "flame"],
       "display": {
         "name": { "text": "Callister_Corvus's Checkpoint", "color": "blue", "italic": false },
         "lore": [
