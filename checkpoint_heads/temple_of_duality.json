@@ -5,7 +5,7 @@
   "heads": [
     {
       "uuid": "1962df5d-1882-4d91-9158-0c0dc07dd2b7",
-      "username": "Tier1Patron",
+      "username": "Hex_gone",
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["flame"],
       "display": {
@@ -20,7 +20,7 @@
     },
     {
       "uuid": "7bdeee58-6af8-468c-86bd-4d376dd54681",
-      "username": "Tier2Patron",
+      "username": "Callister_Corvus",
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["flame"],
       "display": {
@@ -35,7 +35,7 @@
     },
     {
       "uuid": "cd0b28ae-5c7c-40a7-895f-b64d7807c5a8",
-      "username": "Tier3Patron",
+      "username": "LaDiamond",
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["flame"],
       "display": {
@@ -50,7 +50,7 @@
     },
     {
       "uuid": "8895c3c2-5c10-484e-bcf2-cacf971cecef",
-      "username": "Tier4Patron",
+      "username": "TheTrueDuality",
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["scuttle_crown", "flame"],
       "display": {
