@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "updated_at": "2025-09-01T00:00:00Z",
+  "default_weight": 1,
+  "heads": [
+    {
+      "uuid": "1962df5d-1882-4d91-9158-0c0dc07dd2b7",
+      "username": "Tier1Patron",
+      "structures": ["dnl:temple_of_duality"],
+      "cosmetics": ["flame"],
+      "display": {
+        "name": { "text": "Tier 1 Checkpoint", "color": "yellow", "italic": false },
+        "lore": [
+          { "text": "Tier 1 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "", "italic": false, "dnl_skip_chat": true },
+          { "text": " \"Light your way—danger ahead!\"", "color": "gray", "italic": true }
+        ]
+      }
+    },
+    {
+      "uuid": "7bdeee58-6af8-468c-86bd-4d376dd54681",
+      "username": "Tier2Patron",
+      "structures": ["dnl:temple_of_duality"],
+      "cosmetics": ["flame"],
+      "display": {
+        "name": { "text": "Tier 2 Checkpoint", "color": "blue", "italic": false },
+        "lore": [
+          { "text": "Tier 2 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "", "italic": false, "dnl_skip_chat": true },
+          { "text": " \"Puzzles first—then the clash.\"", "color": "gray", "italic": true }
+        ]
+      }
+    },
+    {
+      "uuid": "cd0b28ae-5c7c-40a7-895f-b64d7807c5a8",
+      "username": "Tier3Patron",
+      "structures": ["dnl:temple_of_duality"],
+      "cosmetics": ["flame"],
+      "display": {
+        "name": { "text": "Tier 3 Checkpoint", "color": "red", "italic": false },
+        "lore": [
+          { "text": "Tier 3 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "", "italic": false, "dnl_skip_chat": true },
+          { "text": " \"Gear up—the boss awaits.\"", "color": "gray", "italic": true }
+        ]
+      }
+    },
+    {
+      "uuid": "8895c3c2-5c10-484e-bcf2-cacf971cecef",
+      "username": "Tier4Patron",
+      "structures": ["dnl:temple_of_duality"],
+      "cosmetics": ["scuttle_crown", "flame"],
+      "display": {
+        "name": { "text": "Tier 4 Checkpoint", "color": "light_purple", "italic": false },
+        "lore": [
+          { "text": "Tier 4 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
+          { "text": "", "italic": false, "dnl_skip_chat": true },
+          { "text": " \"Crown up—trial of duality.\"", "color": "gray", "italic": true }
+        ]
+      }
+    }
+  ]
+}
