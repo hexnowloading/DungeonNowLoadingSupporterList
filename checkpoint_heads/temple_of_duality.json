@@ -9,7 +9,7 @@
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["flame"],
       "display": {
-        "name": { "text": "Tier 1 Checkpoint", "color": "yellow", "italic": false },
+        "name": { "text": "Hex_gone's Checkpoint", "color": "yellow", "italic": false },
         "lore": [
           { "text": "Tier 1 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
           { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
@@ -24,7 +24,7 @@
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["flame"],
       "display": {
-        "name": { "text": "Tier 2 Checkpoint", "color": "blue", "italic": false },
+        "name": { "text": "Callister_Corvus's Checkpoint", "color": "blue", "italic": false },
         "lore": [
           { "text": "Tier 2 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
           { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
@@ -39,7 +39,7 @@
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["flame"],
       "display": {
-        "name": { "text": "Tier 3 Checkpoint", "color": "red", "italic": false },
+        "name": { "text": "LaDiamond's Checkpoint", "color": "red", "italic": false },
         "lore": [
           { "text": "Tier 3 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
           { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
@@ -54,7 +54,7 @@
       "structures": ["dnl:temple_of_duality"],
       "cosmetics": ["scuttle_crown", "flame"],
       "display": {
-        "name": { "text": "Tier 4 Checkpoint", "color": "light_purple", "italic": false },
+        "name": { "text": "TheTrueDuality's Checkpoint", "color": "light_purple", "italic": false },
         "lore": [
           { "text": "Tier 4 Patron", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
           { "text": "Temple of Duality", "color": "dark_gray", "italic": false, "dnl_skip_chat": true },
