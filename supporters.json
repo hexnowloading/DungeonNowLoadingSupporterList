@@ -218,6 +218,10 @@
   "79d24580-ddae-4777-8519-c3896aa791bf": [
     "repulsor_golden"
   ],
+  "b689180e-1d4e-436c-8d76-63f1175687be": [
+    "copper_creep_butler",
+    "repulsor_golden"
+  ],
   "27901bfd-5f41-4f7b-8c7a-c6ab358ba443": [
     "copper_creep_butler",
     "repulsor_golden"
@@ -236,10 +240,6 @@
   ],
   "88728eb5-bca3-4912-87b4-20f911d00d7c": [
     "copper_creep_butler"
-  ],
-  "b689180e-1d4e-436c-8d76-63f1175687be": [
-    "copper_creep_butler",
-    "repulsor_golden"
   ],
   "0c7596ab-bf12-41a3-9c2c-fa4b202abbc5": [
     "copper_creep_butler",
