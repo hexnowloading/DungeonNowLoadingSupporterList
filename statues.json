@@ -1,0 +1,19 @@
+{
+  "lastUpdated": "2025-09-15T00:00:00Z",
+  "campaigns": {
+    "temple_of_duality": {
+      "patrons": [
+        { "name": "Hex_gone",      "months": 4 },
+        { "name": "Makena",        "months": 2 },
+        { "name": "AnotherPatron", "months": 1 },
+        { "name": "CoolSupporter", "months": 3 }
+      ]
+    },
+    "labyrinth_v1": {
+      "patrons": [
+        { "name": "LabFan01", "months": 1 },
+        { "name": "LabFan02", "months": 4 }
+      ]
+    }
+  }
+}
