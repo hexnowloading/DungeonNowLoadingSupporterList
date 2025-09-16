@@ -3,10 +3,10 @@
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
-        { "uuid": "aa7bba36-7cb7-4e57-a131-595c784fd478", "months": 4 },
-        { "uuid": "0b3d186a-d019-4583-a3d6-aaf8189790b3", "months": 2 },
-        { "uuid": "9ba262f1-3b9d-4fac-ba53-86d73bdd33e4", "months": 1 },
-        { "uuid": "589e3695-77a8-44b4-a3cf-f4ea1c747580", "months": 3 }
+        { "uuid": "aa7bba36-7cb7-4e57-a131-595c784fd478", "name": "Fungoolius", "months": 4 },
+        { "uuid": "0b3d186a-d019-4583-a3d6-aaf8189790b3", "name": "Derivas",    "months": 2 },
+        { "uuid": "9ba262f1-3b9d-4fac-ba53-86d73bdd33e4", "name": "Makena",    "months": 1 },
+        { "uuid": "589e3695-77a8-44b4-a3cf-f4ea1c747580", "name": "Hex_gone",  "months": 3 }
       ]
     }
   }
