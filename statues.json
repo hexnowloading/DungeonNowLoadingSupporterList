@@ -1,8 +1,14 @@
 {
-  "lastUpdated": "2025-10-06T13:24:10.193453Z",
+  "lastUpdated": "2025-10-06T15:38:40.954835Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
+        {
+          "uuid": "8c74bf8b-80e5-47e0-a80f-bc17a2e6e70a",
+          "months": 1,
+          "name": "xDjoge",
+          "tier": "COPPER"
+        },
         {
           "uuid": "79d24580-ddae-4777-8519-c3896aa791bf",
           "months": 1,
