@@ -1,4 +1,7 @@
 {
+  "310cc4bf-13c2-49c7-b923-3a970e59dd11": [
+    "repulsor_golden"
+  ],
   "db3b315f-8270-4a17-b1a3-d18c65c3e27f": [
     "copper_creep_butler"
   ],
@@ -286,6 +289,10 @@
     "repulsor_golden"
   ],
   "118365e6-d8c6-4ff4-84a6-516bfedee1f5": [
+    "copper_creep_butler",
+    "repulsor_golden"
+  ],
+  "b7d84aee-5ef2-4237-a164-dc95eff981ba": [
     "copper_creep_butler",
     "repulsor_golden"
   ]
