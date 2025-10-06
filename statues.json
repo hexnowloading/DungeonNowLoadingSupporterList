@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-06T17:22:07.092359Z",
+  "lastUpdated": "2025-10-06T18:04:39.175772Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -64,12 +64,6 @@
           "tier": "IRON"
         },
         {
-          "uuid": "a214fe84-6418-4bbd-9b7e-b2aa48d43527",
-          "months": 1,
-          "name": "SignedTundra",
-          "tier": "COPPER"
-        },
-        {
           "uuid": "d7639ce6-eae5-4fed-86e9-505f0bb43236",
           "months": 2,
           "name": "Handsome_Toast",
@@ -86,6 +80,12 @@
           "months": 1,
           "name": "Sonic0810",
           "tier": "COPPER"
+        },
+        {
+          "uuid": "a214fe84-6418-4bbd-9b7e-b2aa48d43527",
+          "months": 2,
+          "name": "SignedTundra",
+          "tier": "IRON"
         },
         {
           "uuid": "88728eb5-bca3-4912-87b4-20f911d00d7c",
