@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-18T10:32:25.750529Z",
+  "lastUpdated": "2025-10-06T12:22:09.232857Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -385,6 +385,12 @@
           "uuid": "118365e6-d8c6-4ff4-84a6-516bfedee1f5",
           "months": 4,
           "name": "Frilled_Shrimpo",
+          "tier": "DIAMOND"
+        },
+        {
+          "uuid": "b7d84aee-5ef2-4237-a164-dc95eff981ba",
+          "months": 4,
+          "name": "TheKekas",
           "tier": "DIAMOND"
         }
       ]
