@@ -46,9 +46,6 @@
   "9ba262f1-3b9d-4fac-ba53-86d73bdd33e4": [
     "copper_creep_butler"
   ],
-  "80a3fb0c-52b4-491f-9588-9d60ef6a5327": [
-    "copper_creep_butler"
-  ],
   "9fbe9c49-2ce7-4ad3-b5e2-f76a5f149e17": [
     "copper_creep_butler"
   ],
@@ -102,6 +99,10 @@
   ],
   "70992b72-8c0e-44d8-92c0-026301d058ee": [
     "copper_creep_butler"
+  ],
+  "80a3fb0c-52b4-491f-9588-9d60ef6a5327": [
+    "copper_creep_butler",
+    "repulsor_golden"
   ],
   "e5a684be-a633-422d-9858-aa8570d7e211": [
     "copper_creep_butler"
