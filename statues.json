@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-07T01:57:38.313749Z",
+  "lastUpdated": "2025-10-07T02:42:46.466084Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -61,6 +61,12 @@
           "uuid": "9fbe9c49-2ce7-4ad3-b5e2-f76a5f149e17",
           "months": 2,
           "name": "DysOkami",
+          "tier": "IRON"
+        },
+        {
+          "uuid": "7a83498c-a018-4743-ac1f-3369424520c4",
+          "months": 2,
+          "name": "4PointDragon",
           "tier": "IRON"
         },
         {
@@ -128,12 +134,6 @@
           "months": 2,
           "name": "SeafoamWolf",
           "tier": "IRON"
-        },
-        {
-          "uuid": "7a83498c-a018-4743-ac1f-3369424520c4",
-          "months": 1,
-          "name": "4PointDragon",
-          "tier": "COPPER"
         },
         {
           "uuid": "4a202fb7-cfd1-47ae-ab36-b0b525406b74",
