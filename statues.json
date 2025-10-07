@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-07T02:42:46.466084Z",
+  "lastUpdated": "2025-10-07T06:46:33.318564Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -50,12 +50,6 @@
           "months": 1,
           "name": "Daleth",
           "tier": "COPPER"
-        },
-        {
-          "uuid": "80a3fb0c-52b4-491f-9588-9d60ef6a5327",
-          "months": 2,
-          "name": "CoolProGlasses",
-          "tier": "IRON"
         },
         {
           "uuid": "9fbe9c49-2ce7-4ad3-b5e2-f76a5f149e17",
@@ -134,6 +128,12 @@
           "months": 2,
           "name": "SeafoamWolf",
           "tier": "IRON"
+        },
+        {
+          "uuid": "80a3fb0c-52b4-491f-9588-9d60ef6a5327",
+          "months": 3,
+          "name": "CoolProGlasses",
+          "tier": "GOLD"
         },
         {
           "uuid": "4a202fb7-cfd1-47ae-ab36-b0b525406b74",
