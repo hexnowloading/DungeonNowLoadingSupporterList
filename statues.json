@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-14T19:30:01.227278Z",
+  "lastUpdated": "2025-10-14T20:39:43.473142Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -50,6 +50,12 @@
           "months": 1,
           "name": "Daleth",
           "tier": "COPPER"
+        },
+        {
+          "uuid": "dc540ed5-402d-4c65-bca6-7c32d24a6a2b",
+          "months": 2,
+          "name": "LowReso1ution",
+          "tier": "IRON"
         },
         {
           "uuid": "9fbe9c49-2ce7-4ad3-b5e2-f76a5f149e17",
@@ -109,12 +115,6 @@
           "uuid": "aa7bba36-7cb7-4e57-a131-595c784fd478",
           "months": 1,
           "name": "Fungoolius",
-          "tier": "COPPER"
-        },
-        {
-          "uuid": "dc540ed5-402d-4c65-bca6-7c32d24a6a2b",
-          "months": 1,
-          "name": "LowReso1ution",
           "tier": "COPPER"
         },
         {
