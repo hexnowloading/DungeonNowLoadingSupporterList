@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-14T02:36:22.647935Z",
+  "lastUpdated": "2025-10-14T02:39:18.845295Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -8,6 +8,12 @@
           "months": 1,
           "name": "xDjoge",
           "tier": "COPPER"
+        },
+        {
+          "uuid": "79d24580-ddae-4777-8519-c3896aa791bf",
+          "months": 2,
+          "name": "MUNZER02",
+          "tier": "IRON"
         },
         {
           "uuid": "b689180e-1d4e-436c-8d76-63f1175687be",
@@ -19,12 +25,6 @@
           "uuid": "27901bfd-5f41-4f7b-8c7a-c6ab358ba443",
           "months": 2,
           "name": "The_Aether_Wolf",
-          "tier": "IRON"
-        },
-        {
-          "uuid": "79d24580-ddae-4777-8519-c3896aa791bf",
-          "months": 2,
-          "name": "MUNZER02",
           "tier": "IRON"
         },
         {
