@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-28T11:04:09.166560Z",
+  "lastUpdated": "2025-10-28T14:05:43.203152Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -7,12 +7,6 @@
           "uuid": "8c74bf8b-80e5-47e0-a80f-bc17a2e6e70a",
           "months": 2,
           "name": "xDjoge",
-          "tier": "IRON"
-        },
-        {
-          "uuid": "b689180e-1d4e-436c-8d76-63f1175687be",
-          "months": 2,
-          "name": "Enderkiller1",
           "tier": "IRON"
         },
         {
@@ -28,15 +22,9 @@
           "tier": "IRON"
         },
         {
-          "uuid": "2af7a0e0-3831-4b2e-8e0f-1931cb5839c5",
-          "months": 1,
-          "name": "RamenJack",
-          "tier": "COPPER"
-        },
-        {
-          "uuid": "74496033-e964-4608-b793-d64419064b55",
+          "uuid": "b689180e-1d4e-436c-8d76-63f1175687be",
           "months": 2,
-          "name": "Turfbandit",
+          "name": "Enderkiller1",
           "tier": "IRON"
         },
         {
@@ -49,12 +37,6 @@
           "uuid": "80a3fb0c-52b4-491f-9588-9d60ef6a5327",
           "months": 3,
           "name": "CoolProGlasses",
-          "tier": "GOLD"
-        },
-        {
-          "uuid": "309b2cf6-caa1-4c9a-912d-7b4be827dc8c",
-          "months": 3,
-          "name": "Killerjerick",
           "tier": "GOLD"
         },
         {
@@ -82,6 +64,12 @@
           "tier": "IRON"
         },
         {
+          "uuid": "88728eb5-bca3-4912-87b4-20f911d00d7c",
+          "months": 1,
+          "name": "iiiHighland",
+          "tier": "COPPER"
+        },
+        {
           "uuid": "a214fe84-6418-4bbd-9b7e-b2aa48d43527",
           "months": 3,
           "name": "SignedTundra",
@@ -94,21 +82,15 @@
           "tier": "GOLD"
         },
         {
-          "uuid": "541850b8-0b36-4f15-9789-db3906d9aa65",
-          "months": 1,
-          "name": "Sonic0810",
-          "tier": "COPPER"
-        },
-        {
           "uuid": "9fbe9c49-2ce7-4ad3-b5e2-f76a5f149e17",
           "months": 3,
           "name": "DysOkami",
           "tier": "GOLD"
         },
         {
-          "uuid": "88728eb5-bca3-4912-87b4-20f911d00d7c",
+          "uuid": "541850b8-0b36-4f15-9789-db3906d9aa65",
           "months": 1,
-          "name": "iiiHighland",
+          "name": "Sonic0810",
           "tier": "COPPER"
         },
         {
@@ -118,22 +100,16 @@
           "tier": "COPPER"
         },
         {
-          "uuid": "aa7bba36-7cb7-4e57-a131-595c784fd478",
-          "months": 1,
-          "name": "Fungoolius",
-          "tier": "COPPER"
-        },
-        {
-          "uuid": "7b759bd0-afb2-4461-a73b-53bb19b740d6",
-          "months": 1,
-          "name": "Sam_is_a_human",
-          "tier": "COPPER"
-        },
-        {
           "uuid": "70992b72-8c0e-44d8-92c0-026301d058ee",
           "months": 2,
           "name": "SeafoamWolf",
           "tier": "IRON"
+        },
+        {
+          "uuid": "aa7bba36-7cb7-4e57-a131-595c784fd478",
+          "months": 1,
+          "name": "Fungoolius",
+          "tier": "COPPER"
         },
         {
           "uuid": "983cf5a8-377d-4685-843b-96d67b4fd856",
@@ -142,28 +118,40 @@
           "tier": "IRON"
         },
         {
+          "uuid": "7b759bd0-afb2-4461-a73b-53bb19b740d6",
+          "months": 1,
+          "name": "Sam_is_a_human",
+          "tier": "COPPER"
+        },
+        {
+          "uuid": "2af7a0e0-3831-4b2e-8e0f-1931cb5839c5",
+          "months": 1,
+          "name": "RamenJack",
+          "tier": "COPPER"
+        },
+        {
           "uuid": "4a202fb7-cfd1-47ae-ab36-b0b525406b74",
           "months": 1,
           "name": "Derivas",
           "tier": "COPPER"
         },
         {
-          "uuid": "6b3ecc1c-9055-4da5-8382-f4d02bf1c79f",
+          "uuid": "74496033-e964-4608-b793-d64419064b55",
           "months": 2,
-          "name": "Knightmare564",
+          "name": "Turfbandit",
           "tier": "IRON"
+        },
+        {
+          "uuid": "309b2cf6-caa1-4c9a-912d-7b4be827dc8c",
+          "months": 3,
+          "name": "Killerjerick",
+          "tier": "GOLD"
         },
         {
           "uuid": "f14cfea3-4038-43ee-bceb-8ff8b6831e03",
           "months": 1,
           "name": "Agent_Lawbook",
           "tier": "COPPER"
-        },
-        {
-          "uuid": "826f1c4f-222a-4615-bf69-e25257ac7777",
-          "months": 2,
-          "name": "AwsomeDude2476",
-          "tier": "IRON"
         },
         {
           "uuid": "0e58fbfa-ffc5-48c3-969c-69c12ef0038f",
@@ -184,6 +172,12 @@
           "tier": "IRON"
         },
         {
+          "uuid": "c3160420-61d3-4b21-9fb5-3d2eabba2615",
+          "months": 1,
+          "name": "BenTheMelon101",
+          "tier": "COPPER"
+        },
+        {
           "uuid": "3c982821-8e93-4080-9fcd-88526fdede80",
           "months": 1,
           "name": "Olly_Olliver",
@@ -202,28 +196,10 @@
           "tier": "COPPER"
         },
         {
-          "uuid": "e190b4d2-4caf-44f5-9cbe-47c7f13a82ad",
-          "months": 1,
-          "name": "Wollf_boy07",
-          "tier": "COPPER"
-        },
-        {
           "uuid": "148aa019-4f74-4093-b479-3105ff69eb4c",
           "months": 2,
           "name": "rove101",
           "tier": "IRON"
-        },
-        {
-          "uuid": "1cf9b1d8-f74e-44ff-83ce-ae32eb4318a0",
-          "months": 3,
-          "name": "BLACKDEMONQQR",
-          "tier": "GOLD"
-        },
-        {
-          "uuid": "c3160420-61d3-4b21-9fb5-3d2eabba2615",
-          "months": 1,
-          "name": "BenTheMelon101",
-          "tier": "COPPER"
         },
         {
           "uuid": "93bcb4eb-e537-48ad-b9e8-e45923710dee",
@@ -262,9 +238,21 @@
           "tier": "COPPER"
         },
         {
-          "uuid": "5aec56aa-64f1-4b75-a387-27ac3a9cf38e",
+          "uuid": "6b3ecc1c-9055-4da5-8382-f4d02bf1c79f",
           "months": 2,
-          "name": "jimcerberus",
+          "name": "Knightmare564",
+          "tier": "IRON"
+        },
+        {
+          "uuid": "e190b4d2-4caf-44f5-9cbe-47c7f13a82ad",
+          "months": 1,
+          "name": "Wollf_boy07",
+          "tier": "COPPER"
+        },
+        {
+          "uuid": "826f1c4f-222a-4615-bf69-e25257ac7777",
+          "months": 2,
+          "name": "AwsomeDude2476",
           "tier": "IRON"
         },
         {
@@ -274,15 +262,9 @@
           "tier": "COPPER"
         },
         {
-          "uuid": "406a8073-4577-4723-8ab5-1e963d3c5db7",
-          "months": 2,
-          "name": "No_Stack",
-          "tier": "IRON"
-        },
-        {
-          "uuid": "ab19a9e6-7e51-451f-9b55-259e18cb82b9",
+          "uuid": "1f76d477-6694-462a-aa9c-4b045eedbc88",
           "months": 1,
-          "name": "ZzamZ34",
+          "name": "pigamer344",
           "tier": "COPPER"
         },
         {
@@ -292,22 +274,34 @@
           "tier": "COPPER"
         },
         {
+          "uuid": "1d4bbc29-5823-426d-ae8c-6c7c3a06b348",
+          "months": 2,
+          "name": "Giga_123",
+          "tier": "IRON"
+        },
+        {
+          "uuid": "406a8073-4577-4723-8ab5-1e963d3c5db7",
+          "months": 2,
+          "name": "No_Stack",
+          "tier": "IRON"
+        },
+        {
           "uuid": "6c71fcac-9eee-4119-aade-c60f4cca4615",
           "months": 1,
           "name": "Viksune",
           "tier": "COPPER"
         },
         {
-          "uuid": "1f76d477-6694-462a-aa9c-4b045eedbc88",
-          "months": 1,
-          "name": "pigamer344",
-          "tier": "COPPER"
+          "uuid": "5aec56aa-64f1-4b75-a387-27ac3a9cf38e",
+          "months": 2,
+          "name": "jimcerberus",
+          "tier": "IRON"
         },
         {
-          "uuid": "1d4bbc29-5823-426d-ae8c-6c7c3a06b348",
-          "months": 2,
-          "name": "Giga_123",
-          "tier": "IRON"
+          "uuid": "ab19a9e6-7e51-451f-9b55-259e18cb82b9",
+          "months": 1,
+          "name": "ZzamZ34",
+          "tier": "COPPER"
         },
         {
           "uuid": "0c7596ab-bf12-41a3-9c2c-fa4b202abbc5",
