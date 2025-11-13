@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-13T06:23:47.945833Z",
+  "lastUpdated": "2025-11-13T09:26:50.276402Z",
   "campaigns": {
     "temple_of_duality": {
       "patrons": [
@@ -88,6 +88,12 @@
           "tier": "GOLD"
         },
         {
+          "uuid": "309b2cf6-caa1-4c9a-912d-7b4be827dc8c",
+          "months": 3,
+          "name": "Killerjerick",
+          "tier": "GOLD"
+        },
+        {
           "uuid": "541850b8-0b36-4f15-9789-db3906d9aa65",
           "months": 1,
           "name": "Sonic0810",
@@ -140,12 +146,6 @@
           "months": 2,
           "name": "Turfbandit",
           "tier": "IRON"
-        },
-        {
-          "uuid": "309b2cf6-caa1-4c9a-912d-7b4be827dc8c",
-          "months": 3,
-          "name": "Killerjerick",
-          "tier": "GOLD"
         },
         {
           "uuid": "f14cfea3-4038-43ee-bceb-8ff8b6831e03",
