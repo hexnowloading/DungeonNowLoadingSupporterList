@@ -1,8 +1,14 @@
 {
-  "lastUpdated": "2026-04-02T21:35:02.903323Z",
+  "lastUpdated": "2026-04-03T11:27:33.067329Z",
   "campaigns": {
     "labyrinth": {
       "patrons": [
+        {
+          "uuid": "4a202fb7-cfd1-47ae-ab36-b0b525406b74",
+          "months": 1,
+          "name": "Derivas",
+          "tier": "COPPER"
+        },
         {
           "uuid": "0c7596ab-bf12-41a3-9c2c-fa4b202abbc5",
           "months": 4,
@@ -134,6 +140,12 @@
           "tier": "IRON"
         },
         {
+          "uuid": "4a202fb7-cfd1-47ae-ab36-b0b525406b74",
+          "months": 1,
+          "name": "Derivas",
+          "tier": "COPPER"
+        },
+        {
           "uuid": "2af7a0e0-3831-4b2e-8e0f-1931cb5839c5",
           "months": 1,
           "name": "RamenJack",
@@ -162,12 +174,6 @@
           "months": 3,
           "name": "SignedTundra",
           "tier": "GOLD"
-        },
-        {
-          "uuid": "4a202fb7-cfd1-47ae-ab36-b0b525406b74",
-          "months": 1,
-          "name": "Derivas",
-          "tier": "COPPER"
         },
         {
           "uuid": "d7639ce6-eae5-4fed-86e9-505f0bb43236",
