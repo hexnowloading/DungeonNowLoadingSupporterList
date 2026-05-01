@@ -21,7 +21,8 @@
   ],
   "75594525-a3f7-4249-ba10-b9aea8c072e9": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "f50ac1e8-b73a-4c7f-8f89-b4a869f54976": [
     "copper_creep_butler",
@@ -43,28 +44,33 @@
   ],
   "a214fe84-6418-4bbd-9b7e-b2aa48d43527": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "53046f4d-75d8-45ea-8045-98f0de897957": [
     "whimper_lantern"
   ],
   "826f1c4f-222a-4615-bf69-e25257ac7777": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "5897b07a-039a-4ba6-ac8a-4d24c5436671": [
     "whimper_lantern"
   ],
   "f583b106-5401-48aa-ba6f-9b274fa6526c": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "7a83498c-a018-4743-ac1f-3369424520c4": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "657e4ae9-0e8c-4a80-b98d-0d26a538ea01": [
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "6b3ecc1c-9055-4da5-8382-f4d02bf1c79f": [
     "copper_creep_butler",
@@ -78,7 +84,8 @@
   ],
   "80a3fb0c-52b4-491f-9588-9d60ef6a5327": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "27901bfd-5f41-4f7b-8c7a-c6ab358ba443": [
     "copper_creep_butler",
@@ -125,7 +132,8 @@
   ],
   "93bcb4eb-e537-48ad-b9e8-e45923710dee": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "7b759bd0-afb2-4461-a73b-53bb19b740d6": [
     "copper_creep_butler"
@@ -149,7 +157,8 @@
   ],
   "f883c375-5c6b-402d-ba4b-b0eb4b63b03d": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "3c982821-8e93-4080-9fcd-88526fdede80": [
     "copper_creep_butler"
@@ -165,15 +174,14 @@
     "copper_creep_butler"
   ],
   "07d0b68f-7819-45ef-86e9-766fbebbf4a8": [
-    "repulsor_golden"
-  ],
-  "2c28c7d1-92b4-431e-9a60-d16d91045b7c": [
-    "repulsor_golden"
-  ],
-  "2f1258c6-8d18-4286-a39f-eb49b36dd643": [
+    "repulsor_golden",
     "whimper_lantern"
   ],
-  "0d8b47f8-2ef1-4c99-9276-7acee94f16a0": [
+  "2c28c7d1-92b4-431e-9a60-d16d91045b7c": [
+    "repulsor_golden",
+    "whimper_lantern"
+  ],
+  "2f1258c6-8d18-4286-a39f-eb49b36dd643": [
     "whimper_lantern"
   ],
   "3529b30f-1ad7-4b1a-b5c0-a7f2684157f9": [
@@ -188,7 +196,8 @@
   ],
   "9fbe9c49-2ce7-4ad3-b5e2-f76a5f149e17": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "afdb9455-8ff6-4644-be76-3302af9e8374": [
     "repulsor_golden"
@@ -198,7 +207,8 @@
   ],
   "51639490-bd76-45fb-9c4e-6de5a840074c": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "6bbe4374-c886-49ff-9f22-6e0db47eaf97": [
     "repulsor_golden"
@@ -219,7 +229,8 @@
     "repulsor_golden"
   ],
   "0bbb8bd7-48a3-4b99-ac7e-b52fc63fc00d": [
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "6b894c30-f419-49b9-8ef9-bce4b13a3bd7": [
     "copper_creep_butler",
@@ -227,7 +238,8 @@
   ],
   "db3b315f-8270-4a17-b1a3-d18c65c3e27f": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "e190b4d2-4caf-44f5-9cbe-47c7f13a82ad": [
     "copper_creep_butler"
@@ -255,11 +267,13 @@
   ],
   "c60bd28c-6543-49d4-8020-96ca12b37ac7": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "9d9293cb-2912-4c0a-aaed-4651aa750503": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "97ddad2c-4969-4629-824c-4a4cba976be8": [
     "whimper_lantern"
@@ -269,11 +283,13 @@
   ],
   "781f6b5a-0458-4137-8f3f-4ee6c00e51b3": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "0e58fbfa-ffc5-48c3-969c-69c12ef0038f": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "afeb229f-85d6-4755-9eee-67cbad777db7": [
     "whimper_lantern"
@@ -321,7 +337,8 @@
     "copper_creep_butler"
   ],
   "8543b693-e84d-41cf-8008-78b9158c991e": [
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "589e3695-77a8-44b4-a3cf-f4ea1c747580": [
     "copper_creep_butler",
@@ -329,11 +346,13 @@
   ],
   "0b3d186a-d019-4583-a3d6-aaf8189790b3": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "36af7d23-e34f-4277-b28a-65c40b832ab9": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "983cf5a8-377d-4685-843b-96d67b4fd856": [
     "copper_creep_butler",
@@ -341,7 +360,8 @@
   ],
   "8834f2b2-48d2-4783-8f7b-92d3d8305ad9": [
     "copper_creep_butler",
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "d5293ed4-898d-4445-ae6d-745a4330a6b9": [
     "copper_creep_butler",
@@ -376,7 +396,8 @@
     "repulsor_golden"
   ],
   "90f1c836-c985-47a5-949f-91b62236271f": [
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "a0dee5c5-49e2-41a2-92af-6f4fd2b7f30b": [
     "repulsor_golden"
@@ -400,11 +421,15 @@
   "e96c7c06-1e00-424a-a1ee-4be8ee00d59f": [
     "copper_creep_butler"
   ],
+  "b3e58dfa-5104-49d4-91f6-8a66f2ac890b": [
+    "whimper_lantern"
+  ],
   "f14cfea3-4038-43ee-bceb-8ff8b6831e03": [
     "copper_creep_butler"
   ],
   "4e533436-0fac-49aa-9f34-0e94a415d80c": [
-    "repulsor_golden"
+    "repulsor_golden",
+    "whimper_lantern"
   ],
   "88728eb5-bca3-4912-87b4-20f911d00d7c": [
     "copper_creep_butler"
